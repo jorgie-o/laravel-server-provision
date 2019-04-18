@@ -1,3 +1,3 @@
 # laravel-server-provision
 
-    wget https://github.com/jorgie-o/laravel-server-provision/blob/master/provision.sh | bash
+    wget https://raw.githubusercontent.com/jorgie-o/laravel-server-provision/master/provision.sh | bash
